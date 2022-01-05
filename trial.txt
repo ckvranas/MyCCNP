@@ -6,3 +6,5 @@ hello new branch 3
 hello new branch !#
 STASH&
 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+commit 3 checking rebase
